@@ -229,7 +229,7 @@ header .header-content .header-content-inner hr {
 
 header .header-content .header-content-inner p {
     margin-bottom: 50px;
-    font-size: 20px;
+    font-size: 36px;
            -webkit-text-stroke: .5px black;
    color: white;
    text-shadow:
@@ -264,7 +264,7 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
-        font-size: 18px;
+        font-size: 27px;
     }
 }
 
